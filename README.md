@@ -1,6 +1,8 @@
 # To-Do List App
 
-This is a simple to-do list application written in Python. It allows users to add tasks, remove tasks, and mark them as completed.
+This is a simple to-do list application written in Python using tkinter and customtkinter. It allows users to add tasks, remove tasks, and mark them as completed.
+
+![Demo Image](images\demo.png?raw=true "Demo")
 
 ## Installation
 
